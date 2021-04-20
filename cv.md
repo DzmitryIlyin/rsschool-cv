@@ -1,5 +1,5 @@
 1. Dzmitry Ilyin
-2. email: dzmitry_ilyin@epam.com; linkedin:dzmitryilyin
+2. **email**: dzmitry_ilyin@epam.com; **linkedin**: dzmitryilyin
 3. Test automation engineer with 5+ years of experience in EPAM Systems company. Started as Test engineer and then in about 2.5 years switched to automation discipline by passing internal EPAM course. At some point decided to try myself in development, particularly in iOS (I know that Android seems much more logical, but due to the reason I was looking for a new challenge decided to go with iOS) due to current project provides the possibility to switch to a new position smoothly; of course in case if I completely pass RSSchool iOS course :)
 4. Mainly used language  is Java. Also had some experience creating Chrome plugin which is JS based. I have experience working with GitHub which was also used by several test automation engineers (means created PR's, its reviews etc.). Touched Spring Java framework and widely used Google Guice dependency injection. All the project which I was part of used Scrum methodology.
 5. class Simple{  
